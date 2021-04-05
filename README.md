@@ -12,7 +12,7 @@
 
 ---
 
-[![Ghaiyurs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghaiyur)](https://github.com/Ghaiyur/github-readme-stats)
+[![Ghaiyurs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghaiyur&show_icons=true&theme=radical)](https://github.com/Ghaiyur/github-readme-stats)
 
 
 ---
