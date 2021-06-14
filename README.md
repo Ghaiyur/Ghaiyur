@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on something _AWESOME_
 - 🌱 I'm currently learning REACT and DJANGO 
-- 📫 How to reach me ghaiyur@gmail.com
+- 📫 Reach me at ghaiyur@gmail.com
 - 📍 I am located in Bengalore
 
 ---
