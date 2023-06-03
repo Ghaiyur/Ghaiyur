@@ -6,9 +6,9 @@
 
 
 - 🔭 I’m currently working on something _AWESOME_
-- 🌱 I'm currently learning GDScript
+- 🌱 I'm currently learning Go
 - 📫 Reach me at ghaiyur@gmail.com
-- 📍 I am located in Bengalore
+- 📍 I am located in Calgary
 
 ---
 
